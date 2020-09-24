@@ -1,0 +1,25 @@
+#registration-form{
+	padding: 30px;
+	border:solid;
+	border: 1px dotted;
+}
+
+#form-container{
+	padding-top:50px;
+}
+.form1-container{
+	padding-top:50px;
+
+}
+#form-form{
+	padding: 10px;
+	border: solid;
+	border: 1px dotted;
+	height: 151px;
+}
+
+
+#catfact{
+	width: 300px;
+}
+
